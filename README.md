@@ -71,4 +71,3 @@ This project is open source and available under the MIT License.
 
 ---
 
-Let me know if you want me to generate this as a downloadable `.md` file for upload.
