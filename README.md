@@ -1,5 +1,3 @@
-![RMS Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
-
 # 🚢 Titanic Data Analysis with Seaborn & Pandas 🐍
 
 This project explores the famous Titanic dataset using **Pandas**, **Seaborn**, and **NumPy**. We clean, transform, and visualize the data to better understand passenger survival patterns and demographics. 📊
