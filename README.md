@@ -50,13 +50,6 @@ pip install pandas numpy seaborn matplotlib
 
 ---
 
-## 🚀 Run it Yourself
-
-1. Clone the repository
-2. Open the `.ipynb` file in Jupyter Notebook or JupyterLab
-3. Run all cells to see the transformations and visualizations
-
----
 
 
 
