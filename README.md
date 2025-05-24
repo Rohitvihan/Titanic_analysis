@@ -27,7 +27,6 @@ This project explores the famous Titanic dataset using **Pandas**, **Seaborn**, 
   * `age`: with median
   * `embarked`: with mode
 
-> ⚠️ Note: Warnings were raised due to chained assignment. Future versions of Pandas may require a different approach (e.g., `df.loc[:, 'col'] = df['col'].fillna(...)`).
 
 ---
 
