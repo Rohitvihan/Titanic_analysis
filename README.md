@@ -65,9 +65,6 @@ pip install pandas numpy seaborn matplotlib
 
 ---
 
-## 📜 License
 
-This project is open source and available under the MIT License.
 
----
 
