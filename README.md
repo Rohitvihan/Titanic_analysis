@@ -58,13 +58,6 @@ pip install pandas numpy seaborn matplotlib
 
 ---
 
-## 💡 Author
-
-* ✍️ Created by \[Your Name]
-* 🐙 GitHub: \[YourGitHubUsername]
-
----
-
 
 
 
