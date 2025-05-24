@@ -45,7 +45,7 @@ This project explores the famous Titanic dataset using **Pandas**, **Seaborn**, 
 Install the following Python packages to run the project:
 
 ```bash
-pip install pandas numpy seaborn matplotlib
+pip install pandas,numpy,seaborn,matplotlib.
 ```
 
 ---
